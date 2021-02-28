@@ -1,4 +1,4 @@
-# SQL-Alchemy-challenge
+# Climate-Analysis-and-Exploration- SQL-Alchemy-challenge
 
 ![surfs-up.png](Images/surfs-up.png)
 
